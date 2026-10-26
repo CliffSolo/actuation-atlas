@@ -1,0 +1,8 @@
+const { defineConfig } = require('@playwright/test');
+
+module.exports = defineConfig({
+  testDir: 'tests',
+  fullyParallel: true,
+  reporter: [['list']],
+  use: { browserName: 'chromium', viewport: { width: 1280, height: 900 } },
+});
