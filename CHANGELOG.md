@@ -20,5 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - 13 automated browser tests (Playwright) and a GitHub Actions workflow that runs them on every push.
 
+- MIT license.
+
 ### Changed
 - The "not in the library" message is now just "Not in the library yet."

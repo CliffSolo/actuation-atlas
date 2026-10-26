@@ -37,3 +37,6 @@ Your layered set is saved in this browser only (localStorage key `actuationAtlas
 
 ## Known limits
 Curves are **modeled** from published actuation, bottom-out and travel specs. They're not measured.
+
+## License
+[MIT](LICENSE)

@@ -2,6 +2,7 @@
   "name": "actuation-atlas",
   "version": "1.0.1",
   "private": true,
+  "license": "MIT",
   "description": "Layer force curves for keyboard switches from a searchable library of 22 switches.",
   "scripts": { "test": "playwright test" },
   "devDependencies": { "@playwright/test": "1.63.0" }
